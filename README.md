@@ -4,7 +4,8 @@ Welcome to use Siprca calculator!
 
 We have two edition to give you:
 
-1.Preview builds;
+1.Preview builds
+
 2.Stable version
 
 Welcome to write Issues!
