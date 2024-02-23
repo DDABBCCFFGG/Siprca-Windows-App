@@ -14,4 +14,4 @@ We'll keep improving!
 
 Announcement：
 
-We have a Sorry-message in "Issues",use's people please read it.
+We have a Sorry-message in "Issues",use's people please read it,all use Version 0.1.0's people,please switch to Version 0.1.5,Thanks! 
