@@ -11,3 +11,5 @@ We have two edition to give you:
 Welcome to write Issues!
 
 We'll keep improving!
+
+We have a Sorry-message in "Issues",use's people please read it.
