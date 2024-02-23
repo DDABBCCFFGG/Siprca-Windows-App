@@ -19,7 +19,7 @@ int main()
 	}
 	if(t == '/')
 	{
-		cout << n + m;
+		cout << n / m;
 	}
 	return 0;
 }
