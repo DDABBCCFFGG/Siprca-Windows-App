@@ -1,4 +1,4 @@
-Welcome to use Siprca calculator!
+# Welcome to use Siprca calculator!
 
 ^_^
 
@@ -12,6 +12,6 @@ Welcome to write Issues!
 
 We'll keep improving!
 
-Announcement：
+*Announcement*：
 
-This software is have a big error, we'll keep improving!
+Because the editor is changed from Visual Studio to Visual Studio Code,so the next Edition is will in July or August to Update.
